@@ -1,0 +1,14 @@
+##############################################
+#              \o iNViSiBLE o/               #
+##############################################
+
+dbvis.license.product           = DbVisualizer
+dbvis.license.edition           = Personal
+dbvis.license.version           = *
+dbvis.license.id                = 1337
+dbvis.license.name              = fattti
+dbvis.license.org               = fattti
+dbvis.license.activation        = 2010-11-24
+dbvis.license.expire            = 2337-11-24
+dbvis.license.upgrade.expire    = 2337-11-24
+dbvis.license.seal              = MCwCFH6NKw9c9a7PSYCm9oubMCuoG+Y1AhRhtABqsx0RcWfdrufdx4X3kf7EyQ==

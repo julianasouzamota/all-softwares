@@ -1,0 +1,15 @@
+#install4j response file for DbVisualizer 7.1.4
+#Wed Nov 24 15:23:28 BRST 2010
+sys.programGroup.allUsers$Boolean=true
+sys.component.570$Boolean=true
+createDesktopLinkAction$Boolean=true
+sys.fileAssociation.launchers$StringArray="2"
+sys.languageId=en
+sys.programGroup.linkDir=/usr/local/bin
+sys.component.466$Boolean=true
+sys.installationDir=C\:\\Arquivos de programas\\DbVisualizer-7.1.4
+sys.programGroup.enabled$Boolean=true
+createQuicklaunchIconAction$Boolean=true
+executeLauncherAction$Boolean=true
+sys.fileAssociation.extensions$StringArray="sql"
+sys.programGroup.name=DbVisualizer 7.1.4

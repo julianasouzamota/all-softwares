@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Meld">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Meld.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
